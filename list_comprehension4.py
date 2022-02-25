@@ -1,1 +1,1 @@
-lista = list[range(100)] ###terminar depois x))
+lista = list[range(100)] ###terminar depois x)
